@@ -12,4 +12,4 @@ I am Shubhkirti Sharma, a full-stack developer and designer working in ReactJS. 
 
   [![Shubhkirti's github stats](https://github-readme-stats.vercel.app/api?username=wowufoundme&show_icons=true&theme=tokyonight)](https://wowufoundme.js.org)
 
-  [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=wowufoundme&theme=tokyonight)](https://wowufoundme.js.org)
