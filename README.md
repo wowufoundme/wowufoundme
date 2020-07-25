@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**wowufoundme/wowufoundme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Shubhkirti Sharma, a full-stack developer and designer working in ReactJS. Along with this, I also enjoy competitive programming and music production. I love watching football (die hard Manchester City fan). Anyways, I am currently looking out for internships and jobs in the market related to my field. If you need a brief history of my work and accomplishments, you can download my resume [here](https://raw.githubusercontent.com/wowufoundme/wowufoundme/650cab5f5130bf05ffdd6becee74b40f840f69b3/__files/SHUBHKIRTI_SHARMA_CV.pdf).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects in MERN stack.
+- 🌱 I’m currently learning GraphQL.
+- 👯 I’m looking to collaborate on open source projects to help improve my skills.
+- 🤔 I’m looking for help with [nucleon.css](https://wowufoundme.js.org/nucleon.css) project.
+- 💬 Ask me about anything. We can talk about a project you have in mind, hobbies, news facts anything. Or just grab a cup of coffee.
+- 📫 How to reach me: [shubhkirti[dot]work[at]gmail[dot]com](mailto:shubhkirti.work@gmail.com) [Telegram](https://t.me/shubhkirti)
+- ⚡ Some github Stats about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Shubhkirti's github stats](https://github-readme-stats.vercel.app/api?username=wowufoundme&show_icons=true&theme=tokyonight)](https://wowufoundme.js.org)
+
+  [![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
