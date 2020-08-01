@@ -1,5 +1,7 @@
 ### Hello 👋
 
+![Background Cover](https://github.com/wowufoundme/wowufoundme/raw/master/__files/bg_cover.png)
+
 I am Shubhkirti Sharma, a full-stack developer and designer working in ReactJS. Along with this, I also enjoy competitive programming and music production. I love watching football (die hard Manchester City fan). Anyways, I am currently looking out for internships and jobs in the market related to my field. If you need a brief history of my work and accomplishments, you can download my resume [here](https://raw.githubusercontent.com/wowufoundme/wowufoundme/650cab5f5130bf05ffdd6becee74b40f840f69b3/__files/SHUBHKIRTI_SHARMA_CV.pdf).
 
 - 🔭 I’m currently working on projects in MERN stack.
