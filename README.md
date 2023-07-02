@@ -9,7 +9,7 @@ I am Shubhkirti Sharma, a full-stack developer and designer working in ReactJS. 
 - 👯 I’m looking to collaborate on open source projects to help improve my skills.
 - 🤔 I’m looking for help with [nucleon.css](https://wowufoundme.js.org/nucleon.css) project.
 - 💬 Ask me about anything. We can talk about a project you have in mind, hobbies, news facts anything. Or just grab a cup of coffee.
-- 📫 How to reach me: [shubhkirti[dot]work[at]gmail[dot]com](mailto:shubhkirti.work@gmail.com) [Telegram](https://t.me/shubhkirti)
+- 📫 How to reach me: [shubhkirti[dot]work[at]gmail[dot]com](mailto:shubhkirti.work@gmail.com)
 - ⚡ Some github Stats about me:
 
   [![Shubhkirti's github stats](https://github-readme-stats.vercel.app/api?username=wowufoundme&show_icons=true&theme=tokyonight)](https://wowufoundme.js.org)
